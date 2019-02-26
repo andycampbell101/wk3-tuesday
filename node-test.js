@@ -15,3 +15,4 @@ console.log(apple+grape);
 var name2 = "Jordyn";
 
 console.log(name1 + " and " + name2 + " have the same class");
+
