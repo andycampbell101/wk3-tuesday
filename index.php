@@ -4,7 +4,7 @@
 
 <head>
 
-	<title></title>
+	<title>LETS FUCK UP SOME SHIT</title>
 
 </head>
 
